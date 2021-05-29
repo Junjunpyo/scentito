@@ -1,2 +1,0 @@
-# scentito
-sample site
